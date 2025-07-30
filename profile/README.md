@@ -1,4 +1,4 @@
-# InsightsHub-BR
+# Insights Hub BR
 
 Repositório central da organização voltada a projetos, scripts e integrações com o Siemens Insights Hub — plataforma industrial baseada em nuvem para IIoT (Industrial Internet of Things).
 
